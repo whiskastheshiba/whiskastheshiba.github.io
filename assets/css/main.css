@@ -1,12 +1,3 @@
-/*
-    
-TemplateMo 557 Grad School
-
-https://templatemo.com/tm-557-grad-school
-
-*/
-
-
 @import url(fontawesome.css);
 @import url("<link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900" rel="stylesheet">");
 body {
@@ -18,6 +9,12 @@ body {
 a {
 	color: #3CF;
     text-decoration: none;
+}
+
+.language {
+  padding-bottom:25px;
+  color:white;
+  text-decoration:none;
 }
 
 a:hover {
@@ -70,7 +67,7 @@ p {
 
 .main-button a {
     background-color: #f5a425;
-    color: #fff;
+    color: #00468b;
     font-size: 13px;
     text-transform: uppercase;
     letter-spacing: 0.5px;
